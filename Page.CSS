@@ -1,0 +1,11 @@
+html, body {
+align-content: center;
+background-color: black;
+color: aqua;
+font-family: fantasy;
+ }
+h1 {
+color: yellow;
+}
+.arrondie{ border-radius:7px;
+}
